@@ -1,0 +1,8 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  margin: auto; /* add the margin to center your canvas*/
+  display: block;
+}
